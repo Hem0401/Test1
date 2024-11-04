@@ -7,5 +7,5 @@ let number2 = 10;
 // Calculate the sum
 let sum = number1 + number2;
 
-// Print the result
+// Print the result in output
 console.log("The sum of " + number1 + " and " + number2 + " is: " + sum);
